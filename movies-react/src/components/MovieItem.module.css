@@ -1,0 +1,14 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+}
+
+.poster {
+    width: 250px;
+    height: 200px;
+}
